@@ -82,6 +82,7 @@ form {
 
 @media (max-width: 400px) {
   form {
+    -webkit-box-shadow: none;
     box-shadow: none;
     margin: 0;
   }
